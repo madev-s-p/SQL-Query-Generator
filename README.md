@@ -1,4 +1,4 @@
-# SQL Query Generator – Natural Language to SQL
+# SQL Query Generator
 
 SQL Query Generator is an intelligent system that converts **natural language queries into SQL statements automatically**.  
 This project helps users interact with databases using plain English instead of writing complex SQL queries manually.
